@@ -1,27 +1,27 @@
 {
-  "name": "electron-quick-start",
-  "version": "1.0.0",
-  "description": "A minimal Electron application",
+  "name": "Disco Music",
+  "version": "0.0.1",
+  "description": "Music Discovery Player by Disco",
   "main": "main.js",
   "scripts": {
     "start": "electron main.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/atom/electron-quick-start.git"
+    "url": "git+https://github.com/JFrei86/disco-music-player.git"
   },
   "keywords": [
-    "Electron",
-    "quick",
-    "start",
-    "tutorial"
+    "Disco",
+    "music",
+    "music player",
+    "discovery"
   ],
-  "author": "GitHub",
-  "license": "CC0-1.0",
+  "author": "Jesse Freitas",
+  "license": "Creative Commons Attribution-NoDerivatives 4.0 International License",
   "bugs": {
-    "url": "https://github.com/atom/electron-quick-start/issues"
+    "url": "https://github.com/JFrei86/disco-music-player/issues"
   },
-  "homepage": "https://github.com/atom/electron-quick-start#readme",
+  "homepage": "https://github.com/JFrei86/disco-music-player#readme",
   "devDependencies": {
     "electron-prebuilt": "^0.36.0"
   }
